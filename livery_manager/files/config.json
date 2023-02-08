@@ -1,0 +1,10 @@
+{
+  "raceAppLeagueId": 4720,
+  "carMappings": {
+    "Porsche GT3 Cup 992": "Porsche_992_Cup_2022"
+  },
+  "boilerplate": {
+    "futsdakl": "lorem ipsum",
+    "number": 22
+  }
+}
